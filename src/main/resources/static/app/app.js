@@ -1,4 +1,4 @@
-// Creating angular Application with module name "SecurityTestApp"
+// Creating angular Application with module name "MyTerritoryApp"
 var app = angular.module('MyTerritoryApp', []);
 
 // If we implement the basic security in spring boot then the response will
