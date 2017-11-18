@@ -1,0 +1,5 @@
+org/myterritoryapp/AppRestController.class
+org/myterritoryapp/AdminRestController.class
+org/myterritoryapp/UserRestController.class
+org/myterritoryapp/Main.class
+org/myterritoryapp/WebConfig.class
